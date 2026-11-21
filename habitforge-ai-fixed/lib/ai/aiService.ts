@@ -57,7 +57,7 @@ async function callAnthropic(prompt: string, options: AIServiceOptions): Promise
     headers: {
       "Content-Type": "application/json",
       "x-api-key": apiKey,
-      "anthropic-version": "2023-06-01",
+      "anthropic-version": "2026-10-21",
     },
     body: JSON.stringify(body),
   });
