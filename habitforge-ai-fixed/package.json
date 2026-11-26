@@ -10,7 +10,7 @@
     "test": "node --experimental-strip-types --test"
   },
   "dependencies": {
-    "@anthropic-ai/sdk": "^1.13.0",
+    "@anthropic-ai/sdk": "^1.14.0",
     "@hookform/resolvers": "^7.0.9",
     "@radix-ui/react-alert-dialog": "^1.1.1",
     "@radix-ui/react-avatar": "^1.1.0",
